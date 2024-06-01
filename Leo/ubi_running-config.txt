@@ -114,9 +114,6 @@ interface GigabitEthernet6/0
  duplex auto
  speed auto
 !
-interface GigabitEthernet6/0.5
- no ip address
-!
 interface GigabitEthernet7/0
  ip address 193.136.66.1 255.255.255.252
 !
